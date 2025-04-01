@@ -1,7 +1,7 @@
 package Ejercicios;
 import java.util.*;
 
-public class EJ_1 {
+public class Ejercicio1_MHC {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);

@@ -1,7 +1,7 @@
 package Ejercicios;
 import java.util.*;
 
-public class EJ_2 {
+public class Ejercicio2_MHC {
 
 	public static void main(String[] args) {
         procesoSeleccion();
